@@ -1,0 +1,33 @@
+.navbar-brand {
+    color: #fff; 
+    font-size: 26px;
+    margin-left: 1rem;
+    font-weight: bold;
+  }
+  
+  .navbar-toggler {
+    border-color: #fff; 
+  }
+  
+  .nav-link {
+    color: #fff; 
+    font-size: 18px;
+  }
+  
+  .nav-link:hover {
+    color: #cccccc;
+  }
+  
+  .navbar-nav {
+    margin-left: auto;
+  }
+  
+  .nav-item{
+    margin-right: 20px;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 18px;
+  }
+  
+  
